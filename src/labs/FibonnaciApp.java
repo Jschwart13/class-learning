@@ -1,4 +1,4 @@
-package Labs;
+package labs;
 
 public class FibonnaciApp {
     public static void main(String[] args) {

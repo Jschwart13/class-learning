@@ -1,4 +1,4 @@
-package objectOrientedPrograming;
+package objectorientedprograming;
 
 public class CDAccount extends BankAccount implements IRate {
 

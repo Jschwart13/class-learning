@@ -1,4 +1,4 @@
-package objectOrientedPrograming;
+package objectorientedprograming;
 
 class Person{
     String name;

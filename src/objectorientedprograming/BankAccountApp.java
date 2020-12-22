@@ -1,4 +1,4 @@
-package objectOrientedPrograming;
+package objectorientedprograming;
 
 public class BankAccountApp {
     public static void main(String[] args) {

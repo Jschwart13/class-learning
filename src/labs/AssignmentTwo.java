@@ -1,4 +1,4 @@
-package Labs;
+package labs;
 
 public class AssignmentTwo {
     public static void main(String[] args) {

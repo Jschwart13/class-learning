@@ -1,4 +1,4 @@
-package Labs;
+package labs;
 
 public class AssignmentOne {
     // Write a function that takes a value n returs the sum of the numbers 1 to n
